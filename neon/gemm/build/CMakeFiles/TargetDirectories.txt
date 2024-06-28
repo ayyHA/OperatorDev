@@ -1,0 +1,3 @@
+/home/orangepi/arm/example/gemm/build/CMakeFiles/rebuild_cache.dir
+/home/orangepi/arm/example/gemm/build/CMakeFiles/edit_cache.dir
+/home/orangepi/arm/example/gemm/build/CMakeFiles/test.dir

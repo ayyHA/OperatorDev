@@ -26,7 +26,7 @@ void col_sgemm(int m, int n, int k,
         {
             ib = min(m - i, mc);
             if (i == 0)
-                packed_b = new double[k * n];
+                packed_b = new double[kc * n]; // 原写着k,应该是kc
             inner_kernel(ib, n, pb, &A(i, p), lda, &B(p, 0), ldb, &C(i, 0), ldc, i == 0, packed_b);
         }
         delete packed_b;

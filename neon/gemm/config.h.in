@@ -1,0 +1,11 @@
+#cmakedefine nRepeats @nRepeats@
+#cmakedefine LDA @LDA@
+#cmakedefine LDB @LDB@
+#cmakedefine LDC @LDC@
+#cmakedefine M @M@
+#cmakedefine N @N@
+#cmakedefine K @K@
+#cmakedefine PSTART @PSTART@
+#cmakedefine PEND @PEND@
+#cmakedefine PINC @PINC@
+#cmakedefine USE_NEON 

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/config.h
+
+../include/gemm.h
+
+/home/orangepi/arm/example/gemm/src/gemm_8x8_like_blas_neon.cpp
+gemm.h
+/home/orangepi/arm/example/gemm/src/gemm.h
+config.h
+/home/orangepi/arm/example/gemm/src/config.h
+assert.h
+/home/orangepi/arm/example/gemm/src/assert.h
+cstdlib
+-
+arm_neon.h
+-
+
