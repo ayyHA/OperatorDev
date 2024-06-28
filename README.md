@@ -44,7 +44,7 @@ Neon是ARM支持的一款高级SIMD,本仓库的Neon开发是基于aarch64进行
 
 ### gemm
 
-这是一个**通用矩阵乘**的优化算法,其中涵盖了how-to-optimize-gemm的neon实现,并在这基础上逐步优化,增加了OpenBLAS的优化思路,并根据gotoBLAS中的指导,对A55的L1Cache,页大小进行考虑,设定了MKN的分块大小,同时在这基础上依次实现了Neon Intrinsic和Neon Assembly的优化,并将微内核中的4x4转换为8x8,目前能发挥A55单核53%的性能
+这是一个**通用矩阵乘**的优化算法,其中涵盖了how-to-optimize-gemm的neon实现,并在这基础上逐步优化,增加了OpenBLAS的优化思路,并根据gotoBLAS中的指导,对A55的L1Cache,页大小进行考虑,设定了MKN的分块大小,同时在这基础上依次实现了Neon Intrinsic和Neon Assembly的优化,并将微内核中的4x4转换为8x8,目前能发挥A55单核**53%**的性能
 
 ## RISC-V
 
