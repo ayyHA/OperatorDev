@@ -1,0 +1,7 @@
+flashattn-v1.cu
+flashattn.cc
+setup.py
+flashattn.egg-info/PKG-INFO
+flashattn.egg-info/SOURCES.txt
+flashattn.egg-info/dependency_links.txt
+flashattn.egg-info/top_level.txt
