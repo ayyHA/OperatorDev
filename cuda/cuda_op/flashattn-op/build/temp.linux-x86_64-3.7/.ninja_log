@@ -1,5 +1,0 @@
-# ninja log v5
-3	32487	1728550992	/workspace/cuda_op/flashattn-op/build/temp.linux-x86_64-3.7/flashattn.o	c167a090de520e14
-4	31466	1728551281655711586	/workspace/cuda_op/flashattn-op/build/temp.linux-x86_64-3.7/flashattn.o	c167a090de520e14
-9	33128	1728555328053691127	/workspace/cuda_op/flashattn-op/build/temp.linux-x86_64-3.7/flashattn.o	f4194765ded16488
-4	71502	1728555366434647047	/workspace/cuda_op/flashattn-op/build/temp.linux-x86_64-3.7/flashattn-v1.o	e874424a2baafe67

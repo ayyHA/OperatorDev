@@ -1,1 +1,0 @@
-/usr/bin/c++  -g  -rdynamic CMakeFiles/test.dir/utils/compare_matrix.cpp.o CMakeFiles/test.dir/utils/copy_matrix.cpp.o CMakeFiles/test.dir/utils/get_time.cpp.o CMakeFiles/test.dir/utils/random_matrix.cpp.o CMakeFiles/test.dir/utils/test.cpp.o CMakeFiles/test.dir/src/gemm_8x8_like_blas_neon.cpp.o CMakeFiles/test.dir/src/gemm_origin.cpp.o  -o ../bin/test 
