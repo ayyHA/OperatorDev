@@ -16,3 +16,7 @@ bin
 *.tex
 *.exe
 __pycache__
+*.sass
+*.ptx
+*.asm
+obj
